@@ -13,7 +13,7 @@ Execute start.bat
 Fill up with your discord bot token:
 https://discord.com/developers/applications
 
-Enter your bot prefix
+Enter your bot prefix.\n
 Putting anything similar to ! . ^ > is highly recommended.
 
 Enjoy!
