@@ -1,0 +1,3 @@
+@echo off
+echo Installing requirements...
+npm i discord.js
