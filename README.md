@@ -1,19 +1,19 @@
 # Backdoored
 Discord Backdoor made in Javascript
 
-HOW TO USE:
+__HOW TO USE:__
 
-Download NodeJS
+**Download NodeJS**
 https://nodejs.org/dist/v20.18.0/node-v20.18.0-x64.msi
 
-Run requirements.bat
+**Run requirements.bat**
 
-Execute start.bat
+**Execute start.bat**
 
-Fill up with your discord bot token:
+**Fill up with your discord bot token:**
 https://discord.com/developers/applications
 
-Enter your bot prefix. (. > ^ !)
+**Enter your bot prefix.** (. > ^ !)
 
-Enjoy!
+**Enjoy!**
 You should see a list of all commands and your bot is now online!
